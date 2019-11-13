@@ -1,0 +1,14 @@
+﻿  my_first_openCV.cpp
+C:\source_code\openCV_for_internal\my_first_openCV.cpp(46,66): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+C:\source_code\openCV_for_internal\my_first_openCV.cpp(46,66): warning C4244:         with
+C:\source_code\openCV_for_internal\my_first_openCV.cpp(46,66): warning C4244:         [
+C:\source_code\openCV_for_internal\my_first_openCV.cpp(46,66): warning C4244:             _Tp=int
+C:\source_code\openCV_for_internal\my_first_openCV.cpp(46,66): warning C4244:         ]
+C:\source_code\openCV_for_internal\my_first_openCV.cpp(46,41): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+C:\source_code\openCV_for_internal\my_first_openCV.cpp(46,41): warning C4244:         with
+C:\source_code\openCV_for_internal\my_first_openCV.cpp(46,41): warning C4244:         [
+C:\source_code\openCV_for_internal\my_first_openCV.cpp(46,41): warning C4244:             _Tp=int
+C:\source_code\openCV_for_internal\my_first_openCV.cpp(46,41): warning C4244:         ]
+C:\source_code\openCV_for_internal\my_first_openCV.cpp(133,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\source_code\openCV_for_internal\my_first_openCV.cpp(129,23): warning C4101: 'hCommForWrite': unreferenced local variable
+  openCV_for_internal.vcxproj -> C:\source_code\openCV_for_internal\x64\Debug\openCV_for_internal.exe
